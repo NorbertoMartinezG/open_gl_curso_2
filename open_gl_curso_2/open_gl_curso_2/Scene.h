@@ -2,9 +2,9 @@
 class Scene
 {
 public:
-	Scene() { }
-	void draw() { }
-	void click() { }
+	Scene();
+	static void draw();
+	void click();
 };
 //---------------------------------------------------------------------------
 #include <time.h>
