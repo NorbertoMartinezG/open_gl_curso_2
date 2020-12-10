@@ -16,8 +16,8 @@
 //#include "L03_Background.h"
 //L03_Background scene;
 
-//#include "L04_Vars.h"
-//          L04_Vars scene;
+#include "L04_Vars.h"
+          L04_Vars scene;
 
 //#include "L05_Click.h"
 //          L05_Click scene;
@@ -145,7 +145,7 @@ void Main_Glut::display()
 	glLoadIdentity();
 	glTranslatef(0.0f, 0.0f, -40.0f);
 
-	//scene.draw(); // color	//glClearColor(1.0, 0.0, 1.0, 1.0); funcion en L03_Background heredada de Scene
+	scene.draw(); // color	//glClearColor(1.0, 0.0, 1.0, 1.0); funcion en L03_Background heredada de Scene
 
 	glutSwapBuffers();
 }

@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="L02_Environment.cpp" />
     <ClCompile Include="L03_Background.cpp" />
+    <ClCompile Include="L04_Vars.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -154,6 +155,7 @@
   <ItemGroup>
     <ClInclude Include="L02_Environment.h" />
     <ClInclude Include="L03_Background.h" />
+    <ClInclude Include="L04_Vars.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>
