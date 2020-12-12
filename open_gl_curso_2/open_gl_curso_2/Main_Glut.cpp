@@ -16,11 +16,11 @@
 //#include "L03_Background.h"
 //L03_Background scene;
 
-#include "L04_Vars.h"
-          L04_Vars scene;
+//#include "L04_Vars.h"
+//          L04_Vars scene;
 
-//#include "L05_Click.h"
-//          L05_Click scene;
+#include "L05_Click.h"
+          L05_Click scene;
 
 //#include "L06_IF.h"
 //          L06_IF scene;
@@ -138,7 +138,7 @@ void Main_Glut::iniGL()
 	//scene.iniGL();
 }
 
-void Main_Glut::display()
+void Main_Glut::display() // cada frame se va dibujando
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	glMatrixMode(GL_MODELVIEW);
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		//scene.click();
+		scene.click();
 	}
 
 }
