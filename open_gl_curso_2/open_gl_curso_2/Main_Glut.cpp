@@ -22,11 +22,11 @@
 //#include "L05_Click.h" // cambia el color de la ventana aumentando el valor de r en RGBA 
  //         L05_Click scene;
 
-#include "L06_IF.h" // cambia el color de la ventana aumentando el valor de r en RGBA y cuando llega a 1.0 r vuelve a 0
-L06_IF scene;
+//#include "L06_IF.h" // cambia el color de la ventana aumentando el valor de r en RGBA y cuando llega a 1.0 r vuelve a 0
+//L06_IF scene;
 
-//#include "L07_Triangle.h"
-//          L07_Triangle scene;
+#include "L07_Triangle.h"
+          L07_Triangle scene;
 
 //#include "L08_Procedures.h"
 //          L08_Procedures scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		scene.click();
+		//scene.click();
 	}
 
 }
