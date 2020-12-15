@@ -5,7 +5,7 @@
 //---------------------------------------------------------------------------
 //#include <GL/gl.h>
 #include <GL/glut.h>
-#include "Scene.h"
+//#include "Scene.h"
 //---------------------------------------------------------------------------
 // Programming 3D to Newbies : Indiana Aiki
 //---------------------------------------------------------------------------
@@ -25,11 +25,11 @@
 //#include "L06_IF.h" // cambia el color de la ventana aumentando el valor de r en RGBA y cuando llega a 1.0 r vuelve a 0
 //L06_IF scene;
 
-#include "L07_Triangle.h"
-          L07_Triangle scene;
+//#include "L07_Triangle.h"
+//          L07_Triangle scene;
 
-//#include "L08_Procedures.h"
-//          L08_Procedures scene;
+#include "L08_Procedures.h"
+          L08_Procedures scene;
 
 //#include "L09_Color.h"
 //          L09_Color scene;
