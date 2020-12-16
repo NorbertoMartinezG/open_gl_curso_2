@@ -28,11 +28,11 @@
 //#include "L07_Triangle.h"
 //          L07_Triangle scene;
 
-#include "L08_Procedures.h"
-          L08_Procedures scene;
+//#include "L08_Procedures.h"
+//          L08_Procedures scene;
 
-//#include "L09_Color.h"
-//          L09_Color scene;
+#include "L09_Color.h"
+          L09_Color scene;
 
 //#include "L10_Rotate.h"
 //          L10_Rotate scene;

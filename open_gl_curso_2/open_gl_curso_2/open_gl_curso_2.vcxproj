@@ -152,6 +152,7 @@
     <ClCompile Include="L06_IF.cpp" />
     <ClCompile Include="L07_Triangle.cpp" />
     <ClCompile Include="L08_Procedures.cpp" />
+    <ClCompile Include="L09_Color.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -164,6 +165,7 @@
     <ClInclude Include="L06_IF.h" />
     <ClInclude Include="L07_Triangle.h" />
     <ClInclude Include="L08_Procedures.h" />
+    <ClInclude Include="L09_Color.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>
