@@ -153,6 +153,8 @@
     <ClCompile Include="L07_Triangle.cpp" />
     <ClCompile Include="L08_Procedures.cpp" />
     <ClCompile Include="L09_Color.cpp" />
+    <ClCompile Include="L10_Rotate.cpp" />
+    <ClCompile Include="L11_RotateClick.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -166,6 +168,8 @@
     <ClInclude Include="L07_Triangle.h" />
     <ClInclude Include="L08_Procedures.h" />
     <ClInclude Include="L09_Color.h" />
+    <ClInclude Include="L10_Rotate.h" />
+    <ClInclude Include="L11_RotateClick.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>

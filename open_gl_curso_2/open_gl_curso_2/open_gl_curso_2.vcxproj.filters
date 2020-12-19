@@ -48,6 +48,12 @@
     <ClCompile Include="L09_Color.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="L10_Rotate.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="L11_RotateClick.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main_Glut.h">
@@ -78,6 +84,12 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="L09_Color.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="L10_Rotate.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="L11_RotateClick.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

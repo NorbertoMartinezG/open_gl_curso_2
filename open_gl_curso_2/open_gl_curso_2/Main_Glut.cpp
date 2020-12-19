@@ -31,14 +31,14 @@
 //#include "L08_Procedures.h"
 //          L08_Procedures scene;
 
-#include "L09_Color.h"
-          L09_Color scene;
+//#include "L09_Color.h"
+//         L09_Color scene;
 
 //#include "L10_Rotate.h"
 //          L10_Rotate scene;
 
-//#include "L11_RotateClick.h"
-//          L11_RotateClick scene;
+#include "L11_RotateClick.h"
+          L11_RotateClick scene;
 
 //#include "L12_Animation.h"
 //          L12_Animation scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		//scene.click();
+		scene.click();
 	}
 
 }
