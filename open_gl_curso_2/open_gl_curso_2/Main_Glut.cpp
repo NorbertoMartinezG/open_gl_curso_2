@@ -4,7 +4,7 @@
 // Programming 3D to Newbies : Indiana Aiki
 //---------------------------------------------------------------------------
 //#include <GL/gl.h>
-#include <GL/glut.h>
+//#include <GL/glut.h>
 //#include "Scene.h"
 //---------------------------------------------------------------------------
 // Programming 3D to Newbies : Indiana Aiki
@@ -37,11 +37,11 @@
 //#include "L10_Rotate.h"
 //          L10_Rotate scene;
 
-#include "L11_RotateClick.h"
-          L11_RotateClick scene;
+//#include "L11_RotateClick.h"
+//         L11_RotateClick scene;
 
-//#include "L12_Animation.h"
-//          L12_Animation scene;
+#include "L12_Animation.h"
+          L12_Animation scene;
 
 //#include "L13_Square.h"
 //          L13_Square scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		scene.click();
+		
 	}
 
 }
