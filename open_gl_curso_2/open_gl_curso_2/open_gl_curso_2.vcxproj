@@ -156,6 +156,8 @@
     <ClCompile Include="L10_Rotate.cpp" />
     <ClCompile Include="L11_RotateClick.cpp" />
     <ClCompile Include="L12_Animation.cpp" />
+    <ClCompile Include="L13_Square.cpp" />
+    <ClCompile Include="L14_While.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -172,6 +174,8 @@
     <ClInclude Include="L10_Rotate.h" />
     <ClInclude Include="L11_RotateClick.h" />
     <ClInclude Include="L12_Animation.h" />
+    <ClInclude Include="L13_Square.h" />
+    <ClInclude Include="L14_While.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>

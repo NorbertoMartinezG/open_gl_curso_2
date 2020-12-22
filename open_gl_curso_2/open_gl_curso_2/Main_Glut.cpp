@@ -40,14 +40,14 @@
 //#include "L11_RotateClick.h"
 //         L11_RotateClick scene;
 
-#include "L12_Animation.h"
-          L12_Animation scene;
+//#include "L12_Animation.h"
+//          L12_Animation scene;
 
 //#include "L13_Square.h"
 //          L13_Square scene;
 
-//#include "L14_While.h"
-//          L14_While scene;
+#include "L14_While.h"
+          L14_While scene;
 
 //#include "L15_Polygon.h"
 //          L15_Polygon scene;
