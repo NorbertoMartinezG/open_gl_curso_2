@@ -18,7 +18,7 @@ Así que si #pragma vez falla el viejo método todavía funcionará.
 #ifndef L12_ANIMATION_H
 #define L12_ANIMATION_H
 //---------------------------------------------------------------------------
-// Programming 3D to Newbies : Indiana Aiki
+
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"

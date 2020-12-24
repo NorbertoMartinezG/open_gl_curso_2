@@ -1,24 +1,32 @@
 #pragma once
-#ifndef L08_PROCEDURES_H
-#define L08_PROCEDURES_H
 //---------------------------------------------------------------------------
 
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"
 //---------------------------------------------------------------------------
-class L08_Procedures : public Scene
+class L16_PolygonClick : public Scene
 {
 public:
-    L08_Procedures();
 
-    void draw();
+	L16_PolygonClick();
+
+	void draw();
+
+	void click();
 
 private:
+	double count; // numero de triangulos
+	int a;		// angulo de rotacion de cada triangulo
+	double b; // color cambiante
 
-    void background();
+	void background();
 
-    void drawTriangle();
+	void drawPolygon();
+
+	void drawRotate();
+
+	void drawTriangle();
+
 };
-//---------------------------------------------------------------------------
-#endif
+

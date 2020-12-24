@@ -1,24 +1,30 @@
 #pragma once
-#ifndef L08_PROCEDURES_H
-#define L08_PROCEDURES_H
 //---------------------------------------------------------------------------
 
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"
 //---------------------------------------------------------------------------
-class L08_Procedures : public Scene
+class L15_Polygon : public Scene
 {
-public:
-    L08_Procedures();
 
-    void draw();
+
+public:
+
+	L15_Polygon();
+
+	void draw();
 
 private:
+	double a;
+	double b;
 
-    void background();
+	void background();
 
-    void drawTriangle();
+	void drawPolygon();
+
+	void drawRotate();
+
+	void drawTriangle();
+
 };
-//---------------------------------------------------------------------------
-#endif

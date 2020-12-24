@@ -3,7 +3,7 @@
 #ifndef L09_COLOR_H
 #define L09_COLOR_H
 //---------------------------------------------------------------------------
-// Programming 3D to Newbies : Indiana Aiki
+
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"

@@ -2,7 +2,7 @@
 #ifndef L05_CLICK_H
 #define L05_CLICK_H
 //---------------------------------------------------------------------------
-// Programming 3D to Newbies : Indiana Aiki
+
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"

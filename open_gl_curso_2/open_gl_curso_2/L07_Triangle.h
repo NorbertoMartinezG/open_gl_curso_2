@@ -1,7 +1,7 @@
 #ifndef L07_TRIANGLE_H
 #define L07_TRIANGLE_H
 //---------------------------------------------------------------------------
-// Programming 3D to Newbies : Indiana Aiki
+
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"

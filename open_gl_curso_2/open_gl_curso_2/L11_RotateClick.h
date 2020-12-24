@@ -2,7 +2,7 @@
 #ifndef L11_ROTATECLICK_H
 #define L11_ROTATECLICK_H
 //---------------------------------------------------------------------------
-// Programming 3D to Newbies : Indiana Aiki
+
 //---------------------------------------------------------------------------
 #include <GL/glut.h>
 #include "Scene.h"

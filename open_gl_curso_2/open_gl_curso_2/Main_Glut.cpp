@@ -46,14 +46,14 @@
 //#include "L13_Square.h"
 //          L13_Square scene;
 
-#include "L14_While.h"
-          L14_While scene;
+//#include "L14_While.h"
+//          L14_While scene;
 
 //#include "L15_Polygon.h"
 //          L15_Polygon scene;
 
-//#include "L16_PolygonClick.h"
-//          L16_PolygonClick scene;
+#include "L16_PolygonClick.h"
+          L16_PolygonClick scene;
 
 //#include "L17_PolygonAnimation.h"
 //          L17_PolygonAnimation scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		
+		scene.click(); // para leccion 16
 	}
 
 }
