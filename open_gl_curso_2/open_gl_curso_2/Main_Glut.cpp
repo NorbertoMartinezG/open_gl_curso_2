@@ -55,11 +55,11 @@
 //#include "L16_PolygonClick.h"
 //          L16_PolygonClick scene;
 
-#include "L17_PolygonAnimation.h"
-          L17_PolygonAnimation scene;
+//#include "L17_PolygonAnimation.h"
+//          L17_PolygonAnimation scene;
 
-//#include "L18_Points.h"
-//          L18_Points scene;
+#include "L18_Points.h"
+          L18_Points scene;
 
 //#include "L19_Lines.h"
 //          L19_Lines scene;
