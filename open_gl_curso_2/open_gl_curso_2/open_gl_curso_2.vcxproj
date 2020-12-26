@@ -162,6 +162,7 @@
     <ClCompile Include="L16_PolygonClick.cpp" />
     <ClCompile Include="L17_PolygonAnimation.cpp" />
     <ClCompile Include="L18_Points.cpp" />
+    <ClCompile Include="L19_Lines.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -184,6 +185,7 @@
     <ClInclude Include="L16_PolygonClick.h" />
     <ClInclude Include="L17_PolygonAnimation.h" />
     <ClInclude Include="L18_Points.h" />
+    <ClInclude Include="L19_Lines.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>

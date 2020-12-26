@@ -58,11 +58,11 @@
 //#include "L17_PolygonAnimation.h"
 //          L17_PolygonAnimation scene;
 
-#include "L18_Points.h"
-          L18_Points scene;
+//#include "L18_Points.h"
+//          L18_Points scene;
 
-//#include "L19_Lines.h"
-//          L19_Lines scene;
+#include "L19_Lines.h"
+          L19_Lines scene;
 
 //#include "L20_LocalVar.h"
 //          L20_LocalVar scene;
