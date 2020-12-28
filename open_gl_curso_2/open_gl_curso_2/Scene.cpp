@@ -19,7 +19,7 @@ double Scene::seconds()
 //	glClearColor(1.0, 0.0, 1.0, 1.0); //	red	 green blue, 1.0 es igual a 100% de intensidad
 //}
 
-double seconds()
-{
-	return 0.0;
-}
+//double seconds()
+//{
+//	return 0.0;
+//}

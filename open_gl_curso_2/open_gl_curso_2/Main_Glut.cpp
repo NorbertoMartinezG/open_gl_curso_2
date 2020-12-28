@@ -61,14 +61,14 @@
 //#include "L18_Points.h"
 //          L18_Points scene;
 
-#include "L19_Lines.h"
-          L19_Lines scene;
+//#include "L19_Lines.h"
+//          L19_Lines scene;
 
 //#include "L20_LocalVar.h"
 //          L20_LocalVar scene;
 
-//#include "L21_PointsAnimation.h"
-//          L21_PointsAnimation scene;
+#include "L21_PointsAnimation.h"
+          L21_PointsAnimation scene;
 
 //#include "L22_LinesCube.h"
 //          L22_LinesCube scene;
