@@ -67,11 +67,11 @@
 //#include "L20_LocalVar.h"
 //          L20_LocalVar scene;
 
-#include "L21_PointsAnimation.h"
-          L21_PointsAnimation scene;
+//#include "L21_PointsAnimation.h"
+//          L21_PointsAnimation scene;
 
-//#include "L22_LinesCube.h"
-//          L22_LinesCube scene;
+#include "L22_LinesCube.h"
+          L22_LinesCube scene;
 
 //#include "L23_Camera.h"
 //          L23_Camera scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		//scene.click(); // para leccion 16
+		scene.click(); // para leccion 16 y 22
 	}
 
 }
