@@ -166,6 +166,7 @@
     <ClCompile Include="L20_LocalVar.cpp" />
     <ClCompile Include="L21_PointsAnimation.cpp" />
     <ClCompile Include="L22_LinesCube.cpp" />
+    <ClCompile Include="L23_Camera.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -192,6 +193,7 @@
     <ClInclude Include="L20_LocalVar.h" />
     <ClInclude Include="L21_PointsAnimation.h" />
     <ClInclude Include="L22_LinesCube.h" />
+    <ClInclude Include="L23_Camera.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>
