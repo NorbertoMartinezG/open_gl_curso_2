@@ -73,11 +73,11 @@
 //#include "L22_LinesCube.h"
 //         L22_LinesCube scene;
 
-#include "L23_Camera.h"
-          L23_Camera scene;
+//#include "L23_Camera.h"
+//          L23_Camera scene;
 
-//#include "L24_Curve.h"
-//          L24_Curve scene;
+#include "L24_Curve.h"
+          L24_Curve scene;
 
 //#include "L25_Circles.h"
 //          L25_Circles scene;
