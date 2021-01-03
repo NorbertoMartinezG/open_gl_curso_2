@@ -96,6 +96,9 @@
     <ClCompile Include="L25_Circles.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="L26_Pyramid.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main_Glut.h">
@@ -174,6 +177,9 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="L25_Circles.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="L26_Pyramid.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

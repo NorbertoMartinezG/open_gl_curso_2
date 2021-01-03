@@ -17,7 +17,7 @@ void L25_Circles::click()
 {
 	count++;
 
-	if (count > 6)
+	if (count > 36) // numero maximo de circulos
 	{
 		count = 1;
 	}
@@ -31,13 +31,13 @@ void L25_Circles::background()
 
 void L25_Circles::camera()
 {
-	glRotated(45, 1, 0, 0);
+	glRotated(30, 1, 0, 0);
 }
 
 void L25_Circles::drawAnimation()
 {
 	double ang;
-	ang = 30 * seconds();
+	ang = 30 * seconds(); //velocidad de rotacion
 	glPushMatrix();
 	glRotated(ang, 0, 1, 0);
 	drawCircles();
@@ -56,7 +56,7 @@ void L25_Circles::drawCircles()
 	while (i < count)
 	{
 		glPushMatrix();
-		glRotated(30 * i, 0, 1, 0);
+		glRotated(5.0 * i, 0, 1, 0); // separacion entre circulos
 		drawCircle();
 		glPopMatrix();
 		i++;

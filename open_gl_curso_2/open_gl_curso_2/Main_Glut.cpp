@@ -79,11 +79,11 @@
 //#include "L24_Curve.h"
 //          L24_Curve scene;
 
-#include "L25_Circles.h"
-          L25_Circles scene;
+//#include "L25_Circles.h"
+//          L25_Circles scene;
 
-//#include "L26_Pyramid.h"
-//          L26_Pyramid scene;
+#include "L26_Pyramid.h"
+          L26_Pyramid scene;
 
 //#include "L27_LoopCounter.h"
 //          L27_LoopCounter scene;
@@ -154,7 +154,7 @@ void Main_Glut::mouse(int button, int state, int x, int y)
 {
 	if ((button == GLUT_LEFT_BUTTON) && (state == GLUT_DOWN))
 	{
-		scene.click(); // para leccion 16 y 22, 23
+		//scene.click(); // para leccion 16 y 22, 23
 		
 	}
 
