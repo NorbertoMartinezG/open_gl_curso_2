@@ -82,8 +82,8 @@
 //#include "L25_Circles.h"
 //          L25_Circles scene;
 
-#include "L26_Pyramid.h"
-          L26_Pyramid scene;
+//#include "L26_Pyramid.h"
+//          L26_Pyramid scene;
 
 //#include "L27_LoopCounter.h"
 //          L27_LoopCounter scene;
@@ -91,8 +91,8 @@
 //#include "L28_Translate.h"
 //          L28_Translate scene;
 
-//#include "L29_RotateTranslate.h"
-//          L29_RotateTranslate scene;
+#include "L29_RotateTranslate.h"
+          L29_RotateTranslate scene;
 
 //#include "L30_Scale.h"
 //          L30_Scale scene;

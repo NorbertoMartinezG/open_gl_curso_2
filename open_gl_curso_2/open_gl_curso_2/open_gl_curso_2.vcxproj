@@ -170,6 +170,9 @@
     <ClCompile Include="L24_Curve.cpp" />
     <ClCompile Include="L25_Circles.cpp" />
     <ClCompile Include="L26_Pyramid.cpp" />
+    <ClCompile Include="L27_LoopCounter.cpp" />
+    <ClCompile Include="L28_Translate.cpp" />
+    <ClCompile Include="L29_RotateTranslate.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -200,6 +203,9 @@
     <ClInclude Include="L24_Curve.h" />
     <ClInclude Include="L25_Circles.h" />
     <ClInclude Include="L26_Pyramid.h" />
+    <ClInclude Include="L27_LoopCounter.h" />
+    <ClInclude Include="L28_Translate.h" />
+    <ClInclude Include="L29_RotateTranslate.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>
