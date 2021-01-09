@@ -91,11 +91,11 @@
 //#include "L28_Translate.h"
 //          L28_Translate scene;
 
-#include "L29_RotateTranslate.h"
-          L29_RotateTranslate scene;
+//#include "L29_RotateTranslate.h"
+//          L29_RotateTranslate scene;
 
-//#include "L30_Scale.h"
-//          L30_Scale scene;
+#include "L30_Scale.h"
+          L30_Scale scene;
 
 //#include "L31_CubeFaces.h"
 //          L31_CubeFaces scene;

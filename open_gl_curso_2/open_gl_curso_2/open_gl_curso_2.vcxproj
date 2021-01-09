@@ -173,6 +173,7 @@
     <ClCompile Include="L27_LoopCounter.cpp" />
     <ClCompile Include="L28_Translate.cpp" />
     <ClCompile Include="L29_RotateTranslate.cpp" />
+    <ClCompile Include="L30_Scale.cpp" />
     <ClCompile Include="Main_Glut.cpp" />
     <ClCompile Include="open_gl_curso_2.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -206,6 +207,7 @@
     <ClInclude Include="L27_LoopCounter.h" />
     <ClInclude Include="L28_Translate.h" />
     <ClInclude Include="L29_RotateTranslate.h" />
+    <ClInclude Include="L30_Scale.h" />
     <ClInclude Include="Main_Glut.h" />
     <ClInclude Include="Scene.h" />
   </ItemGroup>
