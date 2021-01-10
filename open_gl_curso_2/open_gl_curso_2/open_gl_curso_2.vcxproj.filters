@@ -111,6 +111,9 @@
     <ClCompile Include="L30_Scale.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="L31_CubeFaces.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main_Glut.h">
@@ -204,6 +207,9 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="L30_Scale.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="L31_CubeFaces.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
