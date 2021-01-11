@@ -97,11 +97,11 @@
 //#include "L30_Scale.h"
 //          L30_Scale scene;
 
-#include "L31_CubeFaces.h"
-          L31_CubeFaces scene;
+//#include "L31_CubeFaces.h"
+//          L31_CubeFaces scene;
 
-//#include "L32_CubeAnimation.h"
-//          L32_CubeAnimation scene;
+#include "L32_CubeAnimation.h"
+          L32_CubeAnimation scene;
 
 
 //----------------------------------------------------
